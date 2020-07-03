@@ -7,9 +7,19 @@ Deletion of a record is left.
 
 The FrontEnd template is of bootstrap
 
-The Final folder is Django_authentication_server
+The Final folder is "Django_authentication_server.zip"
 
 Run command
 ```
 python3 manage.py runserver
 ```
+
+![Screenshot 2020-07-03 at 8 23 10 PM](https://user-images.githubusercontent.com/37113163/86480298-5d23d080-bd6b-11ea-92a8-a00d9c6671b8.png)
+
+![Screenshot 2020-07-03 at 8 23 16 PM](https://user-images.githubusercontent.com/37113163/86480323-6f057380-bd6b-11ea-9720-e4d64258bf97.png)
+
+![Screenshot 2020-07-03 at 8 23 25 PM](https://user-images.githubusercontent.com/37113163/86480342-79c00880-bd6b-11ea-99d2-165670144f3f.png)
+
+![Screenshot 2020-07-03 at 8 23 42 PM](https://user-images.githubusercontent.com/37113163/86480382-880e2480-bd6b-11ea-8035-e7d531cf14c9.png)
+
+![Screenshot 2020-07-03 at 8 04 31 PM](https://user-images.githubusercontent.com/37113163/86480419-978d6d80-bd6b-11ea-9c8a-a30462315fdb.png)
