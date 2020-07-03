@@ -7,6 +7,8 @@ Deletion of a record is left.
 
 The FrontEnd template is of bootstrap
 
+The Final folder is Django_authentication_server
+
 Run command
 ```
 python3 manage.py runserver
