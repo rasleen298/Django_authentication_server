@@ -1,13 +1,13 @@
 # Django_authentication_server
 
+A message for Algoscale - The folder "Django_authentication_server.zip", with all the features implemented was uploaded within the deadline. I just thought of making some better changes, so,In the 'changed_frontend_final_folder',I have made some changes to the frontend and the forms. You can see that for the better version.
+
 Implemented a frontend/backend server which has Login, Logout and Registration features. 
 After successful login, all the valid admins and users are shown on a page.
 Implemented another feature to chnge the password for a user.
 
 
-The FrontEnd template is of bootstrap
 
-The Final folder is "Django_authentication_server.zip"
 
 Run command
 ```
@@ -19,6 +19,5 @@ python3 manage.py runserver
 ![Screenshot 2020-07-03 at 8 23 16 PM](https://user-images.githubusercontent.com/37113163/86480323-6f057380-bd6b-11ea-9720-e4d64258bf97.png)
 
 ![Screenshot 2020-07-03 at 8 23 25 PM](https://user-images.githubusercontent.com/37113163/86480342-79c00880-bd6b-11ea-99d2-165670144f3f.png)
-
 
 ![Screenshot 2020-07-03 at 8 04 31 PM](https://user-images.githubusercontent.com/37113163/86480419-978d6d80-bd6b-11ea-9c8a-a30462315fdb.png)
